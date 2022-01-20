@@ -8,10 +8,10 @@
 
 Other general web pages
 
-https://rpubs.com/ednachiang/MetaG_Pipeline
+* https://rpubs.com/ednachiang/MetaG_Pipeline
 
-Before starting, very important, to understand the question that was behind your metagenomic experiment. What were your goals? Perhaps you are interested in pooling  
-out several gene of interest and compare across treatments. Reconstruct and assemble different genome coming form the same substrate (e.g. MAGs). Identify specific taxa or reconstruct simple communities and their potential functions etc.
+Before starting, is very important to understand the questions that were behind your metagenomic experiment. What were your goals? Perhaps you were interested in pooling  
+out several genes of interest and compare them across treatments; reconstruct and assemble different genomes coming from the same substrate (e.g. MAGs); identify specific taxa and even characterize simple biological communities and their potential functions etc.
 
 ## **(1)** EVALUATING SEQUENCE READS QUALITY
 
