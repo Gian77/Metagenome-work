@@ -1,0 +1,21 @@
+#!/bin/bash --login
+
+#SBATCH --time=00:40:00
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=20
+#SBATCH --mem=32G
+#SBATCH --job-name  count
+#SBACTH -A shade-cole-bonito
+
+cd ${SLURM_SUBMIT_DIR}
+
+cores=$SLURM_CPUS_PER_TASK
+RAM_GB=$SLURM_MEM_PER_NODE
+
+for file in *.fastq
+do
+name="${file%.fastq}"
+
+bla bla bla to be written
+
+done
