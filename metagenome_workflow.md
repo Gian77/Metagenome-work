@@ -48,8 +48,8 @@ Tools required:<br>
 
 Following standards on assembly quality, genome completeness, contamination etc.<br>
 Useful links: <br>
-* [GSC - Genome Standards Consortium](https://gensc.org/about-gsc/funding/)<br>
-* [GOLD - Genome Online Database](https://gold.jgi.doe.gov/)<br>
+* [GSC - Genomic Standards Consortium](https://gensc.org/about-gsc/funding/)<br>
+* [GOLD - Genomes Online Database](https://gold.jgi.doe.gov/)<br>
 
 # **(8)** ANNOTATION
 Tools required:<br>
