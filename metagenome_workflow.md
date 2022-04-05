@@ -56,3 +56,6 @@ Tools required:<br>
 * [prokka](https://github.com/tseemann/prokka)<br>
 * [metaprodigal](https://github.com/hyattpd/Prodigal)<br>
 * [eggnog](https://github.com/eggnogdb/eggnog-mapper)<br>
+
+for fungi (but also other eukaryotes)<br>
+* [funannotate](https://github.com/nextgenusfs/funannotate)<br>
